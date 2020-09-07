@@ -19,3 +19,4 @@
     <p>Недавно написал VkBot на C# с использованием плагинов(https://github.com/ArtemkaOffical/TestBot)</p>
  <h3>Code examples:</h3>
    https://github.com/ArtemkaOffical/Energy</p>
+   https://github.com/ArtemkaOffical/Energy.Plugin</p>
