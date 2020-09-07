@@ -1,0 +1,173 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+a
+{
+    text-decoration: none;
+     color:rgb(255, 255, 255);
+    font-weight: bold;
+}
+html
+{
+    background: #121212; 
+}
+body
+{
+max-width: 1024px;
+    height: 100%;
+   margin: auto;
+}
+header
+{
+text-align: center;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    color: rgb(234, 234, 234);
+    justify-content: center;
+    align-items: center;
+    background: rgb(29, 29, 29);
+}
+.Resume
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.Resume .ContactInfo
+{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+     background: rgb(29, 29, 29);
+    height: 200px;
+}
+.block
+{
+    width: 90%;
+    height: 90%;
+   background: rgba(0, 0, 0, 0.21);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color:rgba(255, 255, 255, 0.58);
+    font-weight: bold;
+}
+img
+{
+    padding: 1em;
+    height: 80%;
+    width: 20%;
+}
+.Info
+{
+    width: 70%;
+    height: 90%;
+   
+    padding: 9px;
+     
+}
+.Info .Name
+{
+    display: inline-flex;
+    justify-content: space-around;
+    align-items:center;
+    width: 100%;
+    height: 20%;
+}
+.Info .Contact
+{
+    height: 80%;
+    width: 100%;
+}
+.block li
+{
+    padding: 5px;
+    margin-left: 5%;
+}
+.Resume .Education
+{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+     background: rgb(29, 29, 29);
+    height: 170px;
+}
+.College 
+{
+    width: 100%;
+    height: 100%;
+    padding: 1em;
+    
+}
+.College ul
+{
+    list-style: none;
+    
+}
+.Resume .AddInfo
+{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+     background: rgb(29, 29, 29);
+    height: 350px;
+}
+.AddInfo .Info
+{
+    padding: 1em;
+    width: 100%;
+    height: 100%;
+    
+}
+.Resume .Skills 
+{
+       margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+     background: rgb(29, 29, 29);
+    height: 150px;
+}
+.Skills .Info
+{
+    padding: 1em;
+     width: 100%;
+    height: 100%;
+}
+.Resume .CodeExamples 
+{
+       margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+     background: rgb(29, 29, 29);
+    height: 100px;
+}
+.CodeExamples .Info
+{
+     padding: 1em;
+     width: 100%;
+    height: 100%;
+}
+footer
+{
+    margin-top: 20px;
+    width: 100%;
+    height: 20px;
+    text-align: center;
+    color:rgb(255, 255, 255);
+    font-weight: bold;
+    padding: 1em;
+}
